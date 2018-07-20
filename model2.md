@@ -30,11 +30,11 @@
 
    9)  first_cate     **integer**
 
-   9)  second_cate  **integer**
+   10)  second_cate  **integer**
 
-   10)  third_cate  **integer**
+   11)  third_cate  **integer**
 
-   11) location_id  **integer**
+   12) location_id  **integer**
 
    
 
@@ -72,7 +72,7 @@ id  name   time
 
 ----
 
-### First_category 상위 카테고리     
+### First_category 상위 카테고리 - icon으로     
 
 ​	1) entertain  놀기
 
@@ -82,7 +82,7 @@ id  name   time
 
 ​	4) **convenient  생활/편의**
 
-### Second_category 하위 카테고리    
+### Second_category 하위 카테고리 - 각각 대표 사진 ( 무드 맞춰가지고 )    
 
 ###### 	1) entertain 놀기
 
@@ -131,6 +131,18 @@ id  name   time
 ​		45) **outdoor 공공시설**
 
 
+
+
+
+
+
+
+
+
+
+
+
+-----------------------------------------------------------------------------------------------------------------------
 
 ### Third_category   생활 / 편의의 하위 카테고리
 
